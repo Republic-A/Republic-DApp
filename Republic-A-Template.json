@@ -1,0 +1,7 @@
+{
+  "description": "Enter the description of your content here", 
+  "external_url": "Add a link to your own personal website, blog, etc. here", 
+  "image": "Add a direct link to your image here", 
+  "name": "Enter a name or title for your content here",
+  "attributes": [ ... ], 
+}
