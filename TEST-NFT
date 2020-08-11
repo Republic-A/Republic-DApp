@@ -1,0 +1,7 @@
+{
+  "description": "TEST REPUBLIC-A NFT DESCRIPTION", 
+  "external_url": "https://republic-a.webflow.io/test", 
+  "image": "https://i.postimg.cc/qRPK1KtV/test.jpg", 
+  "name": "TEST REPUBLIC-A NFT NAME",
+  "attributes": [ ... ], 
+}
